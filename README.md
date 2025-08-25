@@ -31,5 +31,5 @@ Access the deployed application here:
 
 🤝 Contributions are welcome! Feel free to fork this repository, create a new branch, make improvements, and submit a pull request.
 
-📜 License:
+📄 License:
 This project is licensed under the MIT License.
