@@ -1,4 +1,4 @@
-🎓 StuPred: Student Success Prediction Dashboard
+🎓 StuPred - Student Success Prediction Dashboard
 
 📌 Project Overview:
 StuPred is a Machine Learning-powered interactive dashboard built with Streamlit. It predicts student success probability based on academic performance, study habits, and extracurricular activities. The dashboard provides key insights, probability gauges, radar charts, and other visualizations to help educators and students understand learning patterns.
